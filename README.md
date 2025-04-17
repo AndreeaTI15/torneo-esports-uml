@@ -1,5 +1,7 @@
 🎯 AD 3: Diagramas UML
+
 👩‍💻 Autora: Andreea Teodora Istrate
+
 📁 Repositorio: https://github.com/AndreeaTI15/torneo-esports-uml
 
 🔍 1. Análisis del problema y requisitos del sistema
